@@ -1,6 +1,5 @@
 # Marketing-Research-of-Thick-Films-in-Flexible-Packaging-
 
-# Marketing-Research-of-Thick-Films-in-Flexible-Packaging
 
 ## Overview
 This repository presents a comprehensive market research study on Thick Polyester (PET) Films with emphasis on industry segmentation, application mapping, customer benchmarking, manufacturing landscape, and market opportunities.
