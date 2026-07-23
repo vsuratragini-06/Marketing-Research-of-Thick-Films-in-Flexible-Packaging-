@@ -71,19 +71,19 @@ The analysis is based on secondary market research from:
 ---
 
 ## Key Analysis Covered
-✔ Market Segmentation
-✔ Application Mapping
-✔ Micron-wise Product Classification
-✔ Customer Benchmarking
-✔ Manufacturer Benchmarking
-✔ Market Size Estimation
-✔ CAGR Analysis
-✔ Demand–Supply Gap
-✔ Import–Export Analysis
-✔ Competitive Landscape
-✔ Growth Drivers
-✔ Challenges
-✔ Future Opportunities
+- ✔ Market Segmentation
+- ✔ Application Mapping
+- ✔ Micron-wise Product Classification
+- ✔ Customer Benchmarking
+- ✔ Manufacturer Benchmarking
+- ✔ Market Size Estimation
+- ✔ CAGR Analysis
+- ✔ Demand–Supply Gap
+- ✔ Import–Export Analysis
+- ✔ Competitive Landscape
+- ✔ Growth Drivers
+- ✔ Challenges
+- ✔ Future Opportunities
 
 ---
 
