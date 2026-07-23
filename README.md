@@ -57,18 +57,6 @@ Applications:
 - Construction Materials
 
 ---
-
-## Project Highlights
-
-- 📊 3 Major Market Segments
-- 🏭 Global & Indian Manufacturers Benchmarked
-- 👥 Customer Mapping Across Industries
-- 📈 Market Growth & CAGR Analysis
-- 🌍 Import–Export Assessment
-- 📏 Micron-wise Application Analysis
-- 📦 End-use Industry Benchmarking
-
----
   
 ## Research Methodology
 The analysis is based on secondary market research from:
