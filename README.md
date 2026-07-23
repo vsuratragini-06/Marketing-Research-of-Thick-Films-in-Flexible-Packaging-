@@ -61,7 +61,7 @@ Applications:
 ## Project Highlights
 
 - 📊 3 Major Market Segments
-- 🏭 100+ Global & Indian Manufacturers Benchmarked
+- 🏭 Global & Indian Manufacturers Benchmarked
 - 👥 Customer Mapping Across Industries
 - 📈 Market Growth & CAGR Analysis
 - 🌍 Import–Export Assessment
@@ -72,7 +72,6 @@ Applications:
   
 ## Research Methodology
 The analysis is based on secondary market research from:
-- Company Annual Reports
 - Investor Presentations
 - Industry Publications
 - Trade Associations
